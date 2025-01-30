@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Tanay Jain's First CS193 Homework
+
+- I love how it is student run
+- I love how it is useful and helps me learn Github and other nessecary things
+- I love how class got moved online one week
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
